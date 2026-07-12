@@ -1,7 +1,7 @@
 # The Future of Work: AI and Automation
 
 ## 📚 Project Information
-- **Instructor:** Aml Mahmoud  
+- **Instructor:** Amal Mahmoud  
 - **Group Number:** YAT684B_CAI4_DAT1_S5_DEPI4  
 
 ## 👥 Team Members
