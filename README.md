@@ -15,4 +15,4 @@
 This project explores how Artificial Intelligence (AI) is transforming the global job market. As AI continues to reshape industries and redefine workforce requirements, understanding its impact on employment, salaries, and skill demand has become increasingly important. The project aims to provide data-driven insights into these changes, helping organizations and professionals better understand emerging trends and prepare for the future of work.
 
 ## Drive of the project
-https://drive.google.com/drive/folders/1cvdMzlVi9xQu4QWHvtMfBSqCMLr5IYuf?dmr=1&ec=wgc-drive-%5Bmodule%5D-goto
+https://drive.google.com/drive/folders/18vkW-1qoYuze1Ez9TEZ4jFJ1DkwZswiC
