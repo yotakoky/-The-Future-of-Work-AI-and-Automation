@@ -5,11 +5,11 @@
 - **Group Number:** YAT684B_CAI4_DAT1_S5_DEPI4  
 
 ## 👥 Team Members
-1. Karem Mohamed Fathy Sholkkamy  
+1. Karem Mohamed  
 2. Helen Wageh  
 3. Malak Emad  
-4. Seifelden Mahmoud  
-5. Tasneem Ayman  
+4. Seif Alden Mahmoud  
+5. Tasneem Aymn  
 
 ## 📌 Description
 This project explores how Artificial Intelligence (AI) is transforming the global job market. As AI continues to reshape industries and redefine workforce requirements, understanding its impact on employment, salaries, and skill demand has become increasingly important. The project aims to provide data-driven insights into these changes, helping organizations and professionals better understand emerging trends and prepare for the future of work.
